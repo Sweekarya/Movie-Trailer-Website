@@ -5,12 +5,12 @@ HTML, CSS.
 
 ## What it is and does
 
-A Python program that produces the HTML for a movie website that displays
+A Python program that produces the HTML for a movie website which displays
 a number of movies. Click on a movie poster to play its trailer.
 
 ## How to Run Project
 
-Download the project zip file to you computer and unzip the file. Or clone this
+Download the project zip file to your computer and unzip the file. Or clone this
 repository to your desktop.
 
 Open the text-based interface for your operating system (e.g. the terminal
